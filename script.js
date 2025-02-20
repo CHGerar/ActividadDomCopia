@@ -1,0 +1,1 @@
+let manual = document.getElementById("contenido")
